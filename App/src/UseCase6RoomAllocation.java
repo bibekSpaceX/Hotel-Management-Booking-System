@@ -11,7 +11,7 @@ public class UseCase6RoomAllocation {
         // Add requests (FIFO)
         queue.addRequest(new Reservation("Abhi", "Single"));
         queue.addRequest(new Reservation("Subha", "Single"));
-        queue.addRequest(new Reservation("Vanmathi", "Suite"));
+        queue.addRequest(new Reservation("Vanmathii", "Suite"));
 
         // Process queue
         while (queue.hasPendingRequests()) {
