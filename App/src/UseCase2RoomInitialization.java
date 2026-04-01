@@ -2,7 +2,7 @@
  * ==========================================================
  * MAIN CLASS - UseCase2RoomInitialization
  * ==========================================================
- *
+ * <p>
  * Demonstrates room initialization and static availability
  *
  * @version 2.1
