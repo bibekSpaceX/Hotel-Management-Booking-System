@@ -2,20 +2,26 @@
  * ==========================================================
  * ABSTRACT CLASS - Room
  * ==========================================================
- *
+ * <p>
  * Represents a generic hotel room.
  *
  * @version 2.1
  */
 public abstract class Room {
 
-    /** Number of beds available in the room */
+    /**
+     * Number of beds available in the room
+     */
     protected int numberOfBeds;
 
-    /** Total size of the room in square feet */
+    /**
+     * Total size of the room in square feet
+     */
     protected int squareFeet;
 
-    /** Price charged per night */
+    /**
+     * Price charged per night
+     */
     protected double pricePerNight;
 
     /**
